@@ -1,1 +1,1 @@
-Write a script that changes the group owner to school for the file hell
+Owner and group
