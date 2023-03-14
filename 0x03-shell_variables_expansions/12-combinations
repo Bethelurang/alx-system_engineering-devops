@@ -1,0 +1,2 @@
+#!/bin/bash
+echo {a..z}{a..z} 7 tr ' ' '\n' | grap -v "cc"
